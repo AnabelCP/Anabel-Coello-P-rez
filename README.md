@@ -1,4 +1,6 @@
 # Bienvenido. Conóceme!
+![Alt Text](https://media.giphy.com/media/3o7aCUQ7TsQ3cndExq/giphy.gif)
+
 # Anabel Coello Pérez :rose::deciduous_tree::ear_of_rice::cactus::sunflower::mushroom::mount_fuji::violin:
 ## Graduada en Ingeniería Agrícola y del Medio Rural :mortar_board:
 ### *Universidad de La Laguna* 
